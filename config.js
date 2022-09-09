@@ -110,8 +110,8 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
-    monayawal: 1000
+    free: 9999,
+    monayawal: 9999
 }
    global.rpg = {
    darahawal: 100,
@@ -123,7 +123,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 9999
 }
 // api website by xenz
 global.APIs = {
